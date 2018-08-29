@@ -1,0 +1,8 @@
+peter.mueller@my-host.com
+peter dot mueller at my-host dot com
+peter.mueller(at)my-host.com
+peter.mueller (at) host.com
+nefullword@gw.university.com
+peter (dot) mueller (at) my-host (dot) com
+other.host@gmail.com
+special-chars (at) live.com
